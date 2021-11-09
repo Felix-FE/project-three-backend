@@ -1,1 +1,1 @@
-Refer to README on Clint repository
+Refer to README on the Client repository (project-three-frontend) :)
